@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kurniawan Alexander</h1>
 <h3 align="center">A Student Software Engineering at Politeknik Negeri Padang</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zephhyyrr&label=Profile%20views&color=0e75b6&style=flat" alt="KurniawanAlexander" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KurniawanAlexander&label=Profile%20views&color=0e75b6&style=flat" alt="KurniawanAlexander" /> </p>
 
 
 
