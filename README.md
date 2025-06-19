@@ -25,9 +25,9 @@
 </p>
 
 
-<h3 align="center">📊 Top Languages</h3>
+<h3 align="left">📊 Top Languages</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurniawanAlexander&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 </p>
 
