@@ -25,6 +25,11 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KurniawanAlexander&show_icons=true&locale=en&layout=compact" alt="KurniawanAlexander" /></p>
+<h3 align="center">📊 Top Languages</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurniawanAlexander&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+</p>
+
 
 <!-- **KurniawanAlexander/KurniawanAlexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
