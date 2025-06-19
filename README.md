@@ -25,15 +25,6 @@
 </p>
 
 
-<h3 align="center">GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KurniawanAlexander&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KurniawanAlexander&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KurniawanAlexander&show_icons=true&locale=en&layout=compact" alt="KurniawanAlexander" /></p>
 
 <!-- **KurniawanAlexander/KurniawanAlexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
